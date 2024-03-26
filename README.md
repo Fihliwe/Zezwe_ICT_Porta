@@ -1,4 +1,4 @@
-# Zezwe_ICT_Porta
+# Zezwe ICT Portal
 
 ![Zezwe ICT portal](portal.png)
 
